@@ -38,6 +38,18 @@ const Team = () => {
           </p>
         </div>
         <div className="box">
+          <h2 className="position">Website by</h2>
+          <p className="heading-tertiary u-margin-bottom-small">
+            Barath S<br />
+            Vishnu Prakash B <br />
+            Srivarshan S
+            <br />
+            Balachandar B<br/>
+            Aravinth K
+          </p>
+        </div>
+
+        <div className="box">
           <h2 className="position">For Inquiry</h2>
           <p className="heading-tertiary u-margin-bottom-small">
             Please Contact <br />
