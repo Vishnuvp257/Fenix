@@ -71,7 +71,7 @@ const TechEvents = () => {
                       toggle(
                         "BGM Expert",
                         "Solo participant or a Team of two members can take part in the competition.\n Sign language reference, helping by someone other than teammates are strictly prohibited.\n Judges decision are final.",
-                        "Venue1"
+                        "C-211"
                       )
                     }
                   >
@@ -113,7 +113,7 @@ const TechEvents = () => {
                       toggle(
                         "Word Whiz",
                         "Two members per team.\n The participants will be provided with noise canceling headphones with a very loud volume  song in the background and has to guess the word (which can be shown as a question) within the given time. \n Sign language references are strictly prohibited. \n Tie breaker round will be conducted if two teams ends in same number of points at the end.",
-                        "Venue2"
+                        "C-209"
                       )
                     }
                   >
@@ -154,7 +154,7 @@ const TechEvents = () => {
                       toggle(
                         "connection",
                         "Two to Three Members per team. \n There will be two rounds. Preliminary round followed by a final round. \n Any kind of Malpractice will lead to the elimination from the competition.",
-                        "Venue3"
+                        "C-208"
                       )
                     }
                   >
@@ -199,7 +199,7 @@ const TechEvents = () => {
                         toggle(
                           "Treasure hunt",
                           " Four Members per team. \n The participants are on a quest to uncover the hidden wonders of the park, guided by clues that lead them to nature's treasures.\n A total of Five Rounds will be conducted to identify the winner",
-                          "Venue4"
+                          "C-213"
                         )
                       }
                     >
@@ -240,7 +240,7 @@ const TechEvents = () => {
                         toggle(
                           "VortexVerse",
                           "Three to Four members per team. \n Questions will merge elements from various fandoms. Be prepared for unexpected connections! \n There will be three rounds starting with Classic Fandoms followed by Mashup Mayhem and ending with Obscure Realms.\n Use of Mobile phones are strictly prohibited.",
-                          "Venue5"
+                          "C-210"
                         )
                       }
                     >
@@ -281,7 +281,7 @@ const TechEvents = () => {
                         toggle(
                           "Act It Out",
                           "Three to Five Members per team.\n A Scenario or topic will be given on the spot and the participating need to act accordingly.\n Judging criteria will be based on the dialogue delivery, best concepts, humor sense and equal participation of each and every team member. c\n Use of abusive words will lead to the elimination of the team.",
-                          "Venue6"
+                          "C-212"
                         )
                       }
                     >

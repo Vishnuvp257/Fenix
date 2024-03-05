@@ -4,7 +4,7 @@ import video from "../video/video.mp4";
 const Team = () => {
   return (
     <div className="team section-stories" id="team">
-      <div className="bg-video">
+      <div className="bg-video team-mobile">
         <video className="bg-video__content" autoPlay muted loop>
           <source src={video} type="video/mp4" />
           <source src="img/video.webm" type="video/webm" />
@@ -18,6 +18,26 @@ const Team = () => {
       </div>
 
       <div className="main-section">
+        
+        <div className="team-container-1">
+
+          <div className="box">
+            <h2 className="position">DEAN of the College</h2>
+            <p className="heading-tertiary u-margin-bottom-small">
+              Dr.T.Senthilkumar <br />
+            </p>
+          </div>
+          <div className="box">
+            <h2 className="position">Head of the Department</h2>
+            <p className="heading-tertiary u-margin-bottom-small">
+              Dr.G.Annapoorani <br />
+            </p>
+          </div>
+
+        </div>
+
+        <div className="team-container-2">
+
         <div className="box">
           <h2 className="position">Staff Coordinators</h2>
           <p className="heading-tertiary u-margin-bottom-small">
@@ -28,6 +48,7 @@ const Team = () => {
             Mrs.G.Revathi
           </p>
         </div>
+
         <div className="box">
           <h2 className="position">Student Coordinators</h2>
           <p className="heading-tertiary u-margin-bottom-small">
@@ -59,6 +80,8 @@ const Team = () => {
             +91 94885 34631
           </p>
         </div>
+        </div>
+        
       </div>
     </div>
   );
