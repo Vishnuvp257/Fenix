@@ -65,7 +65,7 @@ const TechEvents = () => {
                     onClick={() =>
                       toggle(
                         "Paper Presentation",
-                        ' Three members per team. \n  Topic selection for the presentation is upto participant\'s own interest. \n  Ppt should not exceed 12 slides and abstract should not exceed 250 words. \n Ppt should be in .docx format. \n Each team have 6-8 minutes for oral presentation with ppt. \n Participants must send submit their ppt in .docx file on or before 18th March 2024 to "fenix2k24.aubit@gmail.com." \n',
+                        ' Three members per team. \n  Topic selection for the presentation is upto participant\'s own interest. \n  Ppt should not exceed 12 slides and abstract should not exceed 250 words. \n Ppt should be in .docx format. \n Each team have 6-8 minutes for oral presentation with ppt. \n Participants must send submit their ppt in .docx file on or before 16th March 2024 to "fenix2k24.aubit@gmail.com." \n',
                         "C-203"
                       )
                     }

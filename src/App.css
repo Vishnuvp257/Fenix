@@ -879,6 +879,11 @@ body {
 }
 
 @media only screen and (max-width: 600px){
+
+  .bg-video{
+    height: 100vh;
+  }
+  
   .team-mobile{
     height: 190vh;
   }
@@ -2037,7 +2042,7 @@ only screen and (min-width: 125em) {
   .header__logo-box img {
     width: 65px;
     height: 45px;
-    margin-left: -2rem;
+    margin-left: -1rem;
     margin-top: 2.5rem;
   }
 }

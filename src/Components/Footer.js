@@ -29,8 +29,7 @@ const Footer = () => {
             <p>Bharathidasan Institute of Technology Campus,</p>
             <p>Anna University, </p>
             <p>Tiruchirappalli - 620 024. </p>
-            <p>Email: fenix2k24.aubit@gmail.com </p>
-            <p>Landline: 0431-2407946</p>
+            <p><strong>Email:</strong> fenix2k24.aubit@gmail.com </p>
           </div>
 
         
