@@ -66,7 +66,7 @@ const TechEvents = () => {
                       toggle(
                         "Paper Presentation",
                         ' Three members per team. \n  Topic selection for the presentation is upto participant\'s own interest. \n  Ppt should not exceed 12 slides and abstract should not exceed 250 words. \n Ppt should be in .docx format. \n Each team have 6-8 minutes for oral presentation with ppt. \n Participants must send submit their ppt in .docx file on or before 18th March 2024 to "fenix2k24.aubit@gmail.com." \n',
-                        "Venue1"
+                        "C-203"
                       )
                     }
                   >
@@ -106,7 +106,7 @@ const TechEvents = () => {
                       toggle(
                         "Tech Casino",
                         "Using Mobile phones are not allowed. \n For Aptitude questions participants must show their manual answer in their paper \n There will be a total of 15 rounds. \n If the participant keeps on winning he/she will be keeps on moving to the further roundsnspire us to redefine the tech landscape.",
-                        "Venue2"
+                        "C-205"
                       )
                     }
                   >
@@ -146,7 +146,7 @@ const TechEvents = () => {
                       toggle(
                         "DesignDynasty",
                         "Participants must  bring their own laptops or devices with the necessary design software installed. \n Two to three members are allowed per team.\n The problem statement will be allocated in a random manner. This could be related to education, technology, sustainability, etc.\n It is strictly prohibited to use preexisting templates or copied designs. If found the participating will be directly disqualified without any concerns.\n Usability, creativity, theme adherence, and overall user experience are considered as judging criteria.",
-                        "Venue3"
+                        "C-202"
                       )
                     }
                   >
@@ -191,7 +191,7 @@ const TechEvents = () => {
                         toggle(
                           "BugBash",
                           "Participant must have a basic knowledge related to C, SQL, Java.\n The event possess two rounds in which the participant need to pass the preliminary round to qualify for the final round. \n Participants need to debug the question within 20 mins.\n Cheating in any form will directly lead to the disqualification of the participant.",
-                          "Venue4"
+                          "C-201"
                         )
                       }
                     >

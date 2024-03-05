@@ -10,17 +10,9 @@ const Footer = () => {
           <img alt="Full logo" src={fulllogo} />
         </picture>
       </div>
-      <div class="row">
-        <div class="col-1-of-2">
-          <p class="footer__copyright">
-            Lorem ipsum dolor sit amet, consectetur adipis occ lore mauris et
-            justo euismod.
-          </p>
-        </div>
 
-        <div class="col-1-of-2">
-          <div class="footer__navigation">
-            <div class="f">
+      <div className="footer-row"> 
+          <div>
               <h3>CONNECT WITH US</h3>
               <a
                 href="https://www.instagram.com/fenix._2k24?igsh=dTB3aW94eml0cjF1 "
@@ -29,12 +21,22 @@ const Footer = () => {
               >
                 <img class="footer__img" src={instalogo} alt="" />
               </a>
-            </div>
           </div>
-        </div>
+
+          <div className="address">
+            <h3 style={{marginBottom:'10px'}}>ADDRESS </h3>
+            <p>University College of Engineering </p>
+            <p>Bharathidasan Institute of Technology Campus,</p>
+            <p>Anna University, </p>
+            <p>Tiruchirappalli - 620 024. </p>
+            <p>Email: fenix2k24.aubit@gmail.com </p>
+            <p>Landline: 0431-2407946</p>
+          </div>
+
+        
       </div>
-      <div className="text-center">
-        <span class="copyright">@Fenix 2024 All rights reserved</span>
+      <div>
+        <p class="text-center" style={{color:'GrayText'}}>@Fenix 2024 All rights reserved</p>
       </div>
     </div>
   );

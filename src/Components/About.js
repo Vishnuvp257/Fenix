@@ -5,7 +5,7 @@ import i3 from "../img/aubit2.jpg";
 
 const About = () => {
   return (
-    <div id="about" class="section-about">
+    <div id="about" class="section-about" style={{marginTop:'10rem'}}>
       <div class="u-center-text u-margin-bottom-big">
         <h2 class="heading-secondary white letter-spacing">About Us</h2>
       </div>
