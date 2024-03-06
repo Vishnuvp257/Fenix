@@ -1,8 +1,11 @@
-import "./App.css";
+import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./Components/Home";
 import { Toaster } from "react-hot-toast";
 import axios from "axios";
+
+import Home from "./Components/Home";
+import "./App.css";
+const LazyHome = React.lazy(() => import("./Components/Home"));
 
 axios.defaults.withCredentials = true;
 axios.defaults.baseURL = "https://successful-eel-pea-coat.cyclic.app";
@@ -21,7 +24,7 @@ function App() {
         }}
       />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<LazyHome />} />
       </Routes>
     </>
   );
